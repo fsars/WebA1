@@ -10,7 +10,7 @@ import Projects from './pages/Projects.jsx';
 import Services from './pages/Services.jsx';
 import Contact from './pages/Contact.jsx';
 import Navbar from './components/Navbar.jsx';
-import './app.css';
+import './App.css';
 
 function App() {
 return (
